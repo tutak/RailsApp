@@ -1,1 +1,1 @@
-# Ruby on Rails: sample application
+# Ruby on Rails application
